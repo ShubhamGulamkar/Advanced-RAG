@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is Advanced RAG?",
+    "ground_truth": "Advanced RAG is an enhanced Retrieval Augmented Generation system with reranking and evaluation."
+  },
+  {
+    "question": "How are documents stored in this system?",
+    "ground_truth": "Documents are chunked, embedded, and stored in a vector database."
+  }
+]
